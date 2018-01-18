@@ -1,1 +1,3 @@
 *.pickle
+*.hyper
+la_citation_tableau.csv
